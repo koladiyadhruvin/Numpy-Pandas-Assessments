@@ -1,12 +1,12 @@
 # Numpy-Pandas-Assessments
 
 ## Overview
-This repository contains the Data Analytics libraries of python like Numpy,Pandas and matplotlib and documentation for a data analysis. The analysis focuses on exploratery data analytics. 
+This repository contains the Data Analytics libraries of python like Numpy,Pandas and matplotlib and documentation for a data analysis. The analysis focuses on exploratery data analytics(EDA). 
 
 ## Libraries used
 - **Pandas** : For data manipulation and analysis.
 - **Numpy** : For numerical operations on the data.
-- **Matplotlib** : For thr data visualization.
+- **Matplotlib** : For the data visualization.
 
 ## Files
 -  **`scripts/`**: Contains the Python scripts for data analysis.
@@ -23,3 +23,4 @@ These insructions are help to run the assessment.
 - In these Assessment all data analytics libraries are used for analysis of diamonds dataset.
 - Pandas is used for the data manipulation and analysis of dataset and it's also give the statastics of data.
 - The main use of pandas is to convert any formate of data to dataframe to effective manipulations and EDA.
+- Matplotlib is used for visualization of different parameter of dataset for conclusion of analysis. Here, many different types of plots are used.
